@@ -1,5 +1,5 @@
 def sumInt(a, b):
-    return (a + b)
+    return a + b
 
 def sumFloat(a, b):
     return (a + b)
